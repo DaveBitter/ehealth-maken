@@ -1,5 +1,5 @@
 # Onderbouwing
-Dit is de onderbouwing voor de keuzes in het project
+Dit is de onderbouwing voor de keuzes in [het project](README.md).
 
 ## Waarom een Node.Js app met EJS en SASS?
 ### Node.Js
