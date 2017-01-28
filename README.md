@@ -36,7 +36,7 @@ Tenslotte ben ik ook tevreden over het multi-step formulier met de progress bar.
 Dit was op technisch vlak een zeer druk project. Een volledige app opzetten met een nieuwe datastructuur, nieuwe interactie en nieuwe vormgeving was zeer uitdagend. Desalniettemin ben ik van mening dat wat wij hebben gebouwd de ideale basis legt voor verder werken aan de app in de toekomst. De app is solide en klaar voor uitbreiding. Ik ben zeer benieuwd wat andere met deze app gaan doen.
 
 ## Wat moet er nu nog gebeuren aan de app?
-Goede vraag! Een hoop moet er nog gebeuren. De app is uiteraard niet volledig af in zo’n ontzettend korte tijdspanne. In het de repository is alles te vinden onder issues. De issues zijn gecategoriseerd op verschillende punten. De informatie hierover is te vinden in de readMe van de repository.
+Goede vraag! Een hoop moet er nog gebeuren. De app is uiteraard niet volledig af in zo’n ontzettend korte tijdspanne. In de repository is alles te vinden onder issues. De issues zijn gecategoriseerd op verschillende punten. De informatie hierover is te vinden in de readMe van de repository.
 
 ## Screenshots
 ### Dashboard
