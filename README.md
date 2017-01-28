@@ -6,7 +6,7 @@ In het kort, ik wilde leren werken met PHP aangezien ik daar nog nauwelijks mee 
 
 Dit was van waarde voor de oude app, maar niet voor mij. Aangezien ik het kunstje van datavisualisatie nu zou vertonen in deze app zou ik mezelf niet naar een hoger niveau tillen.
 
-Niels de Bruin, de andere developer met wie ik zou gaan werken, en ik besloten de app volledig opnieuw de bouwen. Redenering en onderbouwing is te vinden in onderbouwing.MD
+Niels de Bruin, de andere developer met wie ik zou gaan werken, en ik besloten de app volledig opnieuw de bouwen. Redenering en onderbouwing is te vinden in [de onderbouwing](ONDERBOUWING.md)
 
 ## Nieuwe POC
 ### Wat is de uitdaging?
