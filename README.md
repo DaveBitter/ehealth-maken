@@ -40,19 +40,19 @@ Goede vraag! Een hoop moet er nog gebeuren. De app is uiteraard niet volledig af
 
 ## Screenshots
 ### Dashboard
-![alt tag](https://raw.githubusercontent.com/DaveBitter/ehealth-maken/master/screenshots/1.png)
-![alt tag](https://raw.githubusercontent.com/DaveBitter/ehealth-maken/master/screenshots/2.png)
+![alt tag](https://raw.githubusercontent.com/DaveBitter/ehealth-maken/master/screenshots/1.jpg)
+![alt tag](https://raw.githubusercontent.com/DaveBitter/ehealth-maken/master/screenshots/2.jpg)
 ### Multi-step form
-![alt tag](https://raw.githubusercontent.com/DaveBitter/ehealth-maken/master/screenshots/3.png)
-![alt tag](https://raw.githubusercontent.com/DaveBitter/ehealth-maken/master/screenshots/4.png)
-![alt tag](https://raw.githubusercontent.com/DaveBitter/ehealth-maken/master/screenshots/5.png)
-![alt tag](https://raw.githubusercontent.com/DaveBitter/ehealth-maken/master/screenshots/6.png)
+![alt tag](https://raw.githubusercontent.com/DaveBitter/ehealth-maken/master/screenshots/3.jpg)
+![alt tag](https://raw.githubusercontent.com/DaveBitter/ehealth-maken/master/screenshots/4.jpg)
+![alt tag](https://raw.githubusercontent.com/DaveBitter/ehealth-maken/master/screenshots/5.jpg)
+![alt tag](https://raw.githubusercontent.com/DaveBitter/ehealth-maken/master/screenshots/6.jpg)
 ### Oefeningen
-![alt tag](https://raw.githubusercontent.com/DaveBitter/ehealth-maken/master/screenshots/7.png)
-![alt tag](https://raw.githubusercontent.com/DaveBitter/ehealth-maken/master/screenshots/8.png)
+![alt tag](https://raw.githubusercontent.com/DaveBitter/ehealth-maken/master/screenshots/7.jpg)
+![alt tag](https://raw.githubusercontent.com/DaveBitter/ehealth-maken/master/screenshots/8.jpg)
 ### Afhandeling ontbreken van data
-![alt tag](https://raw.githubusercontent.com/DaveBitter/ehealth-maken/master/screenshots/9.png)
-![alt tag](https://raw.githubusercontent.com/DaveBitter/ehealth-maken/master/screenshots/10.png)
+![alt tag](https://raw.githubusercontent.com/DaveBitter/ehealth-maken/master/screenshots/9.jpg)
+![alt tag](https://raw.githubusercontent.com/DaveBitter/ehealth-maken/master/screenshots/10.jpg)
 
 ## Links
 ### Presentatie over Git(Hub)
